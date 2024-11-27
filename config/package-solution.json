@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "js-greeting-client-side-solution",
+    "id": "503fd5ab-9acf-4dbb-b5d8-ce41112ac782",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "js-greeting description"
+      },
+      "longDescription": {
+        "default": "js-greeting description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "js-greeting Feature",
+        "description": "The feature that activates elements of the js-greeting solution.",
+        "id": "31742a8f-e07a-4b76-999a-540d460052e8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/js-greeting.sppkg"
+  }
+}

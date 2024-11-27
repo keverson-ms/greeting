@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.5",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "js-greeting",
+    "libraryId": "503fd5ab-9acf-4dbb-b5d8-ce41112ac782",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "js-greeting",
+    "solutionShortDescription": "js-greeting description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
